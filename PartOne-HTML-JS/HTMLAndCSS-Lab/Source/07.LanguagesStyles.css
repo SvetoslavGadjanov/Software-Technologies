@@ -1,0 +1,19 @@
+body{
+    background: #ffffff;
+    line-height: 1.5em;
+    font-size: 24pt;
+
+}
+.grayMarks{
+    background: lightgray;
+    padding: 5px;
+
+}
+
+.special{
+
+    background: gray;
+    border: 1px #AAA;
+    border-radius: 3px;
+    padding: 3px;
+}
